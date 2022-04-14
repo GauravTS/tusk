@@ -2,4 +2,9 @@
 pasta
 Biriyani
 
+snacks
+pizza
+
+thank u
+
 done with the changes
